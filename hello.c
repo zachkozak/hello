@@ -14,7 +14,7 @@ int main(int argc, char **argv) {
   printf("Zach Kozak!\n");
   printf("Computer Science major, math minor whether I want to or not :D\n");
   printf("Michael Janak!");
- printf("Computer Science");
+  printf("Computer Science");
 
   return 0;
 }
